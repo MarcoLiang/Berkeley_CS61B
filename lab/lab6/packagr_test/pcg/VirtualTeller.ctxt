@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VirtualTeller()
+comment0.text=\n\ \ Constructs\ a\ new\ virtual\ teller.\n
+comment1.params=name
+comment1.target=int\ openAccount(java.lang.String)
+comment1.text=\n\ \ openAccount()\ creates\ a\ new\ account\ for\ the\ customer\ "name".\n\ \ @param\ name\ the\ customer's\ name.\n\ \ @return\ the\ new\ account's\ ID\ number.\n
+comment2.params=acct\ amount
+comment2.target=void\ withdraw(int,\ int)
+comment2.text=\n\ \ withdraw()\ withdraws\ "amount"\ dollars\ from\ the\ account\ whose\ number\ is\n\ \ "acct".\ \ Assumes\ that\ amount\ >\=\ 0.\ \ If\ "acct"\ is\ invalid,\ no\ action\ is\n\ \ taken.\n\ \ @param\ acct\ is\ an\ account\ number.\n\ \ @param\ amount\ an\ amount\ of\ money.\n
+comment3.params=acct\ amount
+comment3.target=void\ deposit(int,\ int)
+comment3.text=\n\ \ deposit()\ deposits\ "amount"\ dollars\ into\ the\ bank\ account\ whose\ number\ is\n\ \ "acct".\ \ Assumes\ that\ amount\ >\=\ 0.\ \ If\ "acct"\ is\ invalid,\ no\ action\ is\n\ \ taken.\n\ \ @param\ acct\ is\ an\ account\ number.\n\ \ @param\ amount\ an\ amount\ of\ money.\n
+comment4.params=acct
+comment4.target=int\ balanceInquiry(int)
+comment4.text=\n\ \ balanceInquiry()\ finds\ the\ balance\ on\ the\ account\ whose\ number\ is\ "acct".\n\ \ If\ "acct"\ is\ an\ invalid\ number,\ returns\ -1.\n\ \ @param\ acct\ an\ account\ number.\n\ \ @return\ the\ balance,\ or\ -1\ if\ the\ account\ number\ is\ invalid.\n
+comment5.params=acct
+comment5.target=AccountData\ findAccount(int)
+comment5.text=\n\ \ findAccount()\ gets\ the\ AccountData\ object\ associated\ with\ account\ number\n\ \ "acct".\ \ If\ "acct"\ does\ not\ refer\ to\ a\ valid\ account,\ returns\ null.\n\ \ @param\ acct\ is\ an\ account\ number.\n\ \ @return\ the\ AccountData\ object\ associated\ with\ the\ account\ number.\n
+numComments=6

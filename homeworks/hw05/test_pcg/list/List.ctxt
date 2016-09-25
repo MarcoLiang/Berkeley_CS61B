@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment0.text=\n\ \ isEmpty()\ returns\ true\ if\ this\ List\ is\ empty,\ false\ otherwise.\n\n\ \ @return\ true\ if\ this\ List\ is\ empty,\ false\ otherwise.\ \n\n\ \ Performance\:\ \ runs\ in\ O(1)\ time.\n
+comment1.params=
+comment1.target=int\ length()
+comment1.text=\ \n\ \ length()\ returns\ the\ length\ of\ this\ List.\ \n\n\ \ @return\ the\ length\ of\ this\ List.\n\n\ \ Performance\:\ \ runs\ in\ O(1)\ time.\n
+comment2.params=item
+comment2.target=void\ insertFront(java.lang.Object)
+comment2.text=\n\ \ insertFront()\ inserts\ an\ item\ at\ the\ front\ of\ this\ List.\n\n\ \ @param\ item\ is\ the\ item\ to\ be\ inserted.\n
+comment3.params=item
+comment3.target=void\ insertBack(java.lang.Object)
+comment3.text=\n\ \ insertBack()\ inserts\ an\ item\ at\ the\ back\ of\ this\ List.\n\n\ \ @param\ item\ is\ the\ item\ to\ be\ inserted.\n
+comment4.params=
+comment4.target=ListNode\ front()
+comment4.text=\n\ \ front()\ returns\ the\ node\ at\ the\ front\ of\ this\ List.\ \ If\ the\ List\ is\n\ \ empty,\ return\ an\ "invalid"\ node--a\ node\ with\ the\ property\ that\ any\n\ \ attempt\ to\ use\ it\ will\ cause\ an\ exception.\n\n\ \ @return\ a\ ListNode\ at\ the\ front\ of\ this\ List.\n
+comment5.params=
+comment5.target=ListNode\ back()
+comment5.text=\n\ \ back()\ returns\ the\ node\ at\ the\ back\ of\ this\ List.\ \ If\ the\ List\ is\n\ \ empty,\ return\ an\ "invalid"\ node--a\ node\ with\ the\ property\ that\ any\n\ \ attempt\ to\ use\ it\ will\ cause\ an\ exception.\n\n\ \ @return\ a\ ListNode\ at\ the\ back\ of\ this\ List.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ \ toString()\ returns\ a\ String\ representation\ of\ this\ List.\n\n\ \ @return\ a\ String\ representation\ of\ this\ List.\n
+numComments=7

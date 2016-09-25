@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ Prompts\ the\ user\ for\ the\ name\ X\ of\ a\ company\ (a\ single\ string),\ opens\n\ \ the\ Web\ site\ corresponding\ to\ www.X.com,\ and\ prints\ the\ first\ five\ lines\n\ \ of\ the\ Web\ page\ in\ reverse\ order.\n\ \ @param\ arg\ is\ not\ used.\n\ \ @exception\ Exception\ thrown\ if\ there\ are\ any\ problems\ parsing\ the\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ user's\ input\ or\ opening\ the\ connection.\n
+numComments=1

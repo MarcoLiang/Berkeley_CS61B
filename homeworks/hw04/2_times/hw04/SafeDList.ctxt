@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SafeDList()
+comment1.params=item\ prev\ next
+comment1.target=DListNode\ newNode(java.lang.Object,\ DListNode,\ DListNode)
+comment2.params=node
+comment2.target=void\ lockNode(DListNode)
+comment2.text=\n\ \ DList()\ constructor\ for\ an\ empty\ DList.\n
+comment3.params=item\ node
+comment3.target=void\ insertAfter(java.lang.Object,\ DListNode)
+comment4.params=item\ node
+comment4.target=void\ insertBefore(java.lang.Object,\ DListNode)
+comment5.params=node
+comment5.target=void\ remove(DListNode)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

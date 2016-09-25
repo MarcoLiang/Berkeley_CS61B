@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=i\ p\ n\ lst
+comment0.target=SafeDListNode(java.lang.Object,\ DListNode,\ DListNode,\ DList)
+numComments=1

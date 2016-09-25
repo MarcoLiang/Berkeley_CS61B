@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=i\ p\ n
+comment0.target=DListNode(java.lang.Object,\ DListNode,\ DListNode)
+comment0.text=\n\ \ DListNode()\ constructor.\n\ \ @param\ i\ the\ item\ to\ store\ in\ the\ node.\n\ \ @param\ p\ the\ node\ previous\ to\ this\ node.\n\ \ @param\ n\ the\ node\ following\ this\ node.\n
+numComments=1

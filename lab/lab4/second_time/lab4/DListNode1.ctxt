@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DListNode1()
+comment0.text=\n\ \ DListNode1()\ constructor.\n
+comment1.params=i
+comment1.target=DListNode1(int)
+numComments=2

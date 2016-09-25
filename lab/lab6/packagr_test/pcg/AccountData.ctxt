@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=newName\ num
+comment0.target=AccountData(java.lang.String,\ int)
+comment0.text=\n\ \ Constructs\ a\ new\ account\ for\ customer\ "newName"\ with\ acount\ number\ "num"\n\ \ and\ a\ $0\ starting\ balance.\n
+comment1.params=
+comment1.target=java.lang.String\ getOwner()
+comment1.text=\n\ \ getOwner()\ returns\ the\ name\ of\ this\ account's\ owner.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ \ toString()\ returns\ a\ String\ version\ of\ this\ account's\ number.\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\n\ \ getBalance()\ returns\ the\ balance\ of\ this\ account.\n
+comment4.params=amt
+comment4.target=void\ withdraw(int)
+comment4.text=\ \n\ \ withdraw()\ reduces\ the\ balance\ by\ the\ withdrawal\ amount\ "amt".\n
+comment5.params=amt
+comment5.target=void\ deposit(int)
+comment5.text=\n\ \ deposit()\ deposits\ "amt"\ dollars\ into\ this\ account.\n
+comment6.params=
+comment6.target=int\ getNumber()
+comment6.text=\n\ \ getNumber()\ returns\ this\ account's\ number.\n
+comment7.params=
+comment7.target=int\ getKey()
+comment7.text=\n\ \ getKey()\ returns\ this\ account's\ account\ number\ as\ the\ key\ to\ use\ for\n\ \ sorting\ and\ comparison.\n
+numComments=8

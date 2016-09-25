@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=badWithdraw
+comment0.target=BadTransactionException(int)
+comment0.text=\n\ \ Creates\ an\ exception\ object\ for\ invalid\ withdraw.\n
+numComments=1

@@ -1,0 +1,10 @@
+import java.util.ArrayList;
+public class enhanoop {
+    public static void main(String[] args) {
+        ArrayList<int> i = new ArrayList<int>();
+        for(int e : i) {
+            System.out.println(i);
+        }
+        System.out.println("pass");
+    }
+}

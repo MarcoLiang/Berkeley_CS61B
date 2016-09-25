@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=item\ prev\ next
+comment0.target=DListNode\ newNode(java.lang.Object,\ DListNode,\ DListNode)
+comment0.text=\n\ \ newNode()\ calls\ the\ DListNode\ constructor.\ \ Use\ this\ class\ to\ allocate\n\ \ new\ DListNodes\ rather\ than\ calling\ the\ DListNode\ constructor\ directly.\n\ \ That\ way,\ only\ this\ method\ needs\ to\ be\ overridden\ if\ a\ subclass\ of\ DList\n\ \ wants\ to\ use\ a\ different\ kind\ of\ node.\n\ \ @param\ item\ the\ item\ to\ store\ in\ the\ node.\n\ \ @param\ prev\ the\ node\ previous\ to\ this\ node.\n\ \ @param\ next\ the\ node\ following\ this\ node.\n
+comment1.params=node
+comment1.target=void\ lockNode(DListNode)
+comment1.text=\n\ \ DList()\ constructor\ for\ an\ empty\ DList.\n
+comment2.params=node
+comment2.target=void\ remove(DListNode)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,5 @@
+class SuperClass {
+	public void method(int i) {
+		System.out.println("SuperClass method!");
+	}
+}

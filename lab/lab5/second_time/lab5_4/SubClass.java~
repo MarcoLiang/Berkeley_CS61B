@@ -1,0 +1,16 @@
+class SubClass extends SuperClass {
+    public void method(int i) {
+        System.out.println("Overrided SubClass method!");
+    }
+
+    public void a() {
+        System.out.println("a method pass: not change the static type");
+    }
+    
+    public compare() {
+        this.sup();
+        super.sup();
+    }
+    
+    
+}
